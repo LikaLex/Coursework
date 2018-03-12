@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.599,=D:\курсовой проект\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,D:\курсовой проект\TestInfo.h=D:\курсовой проект\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\courseProjectPCH1.h=D:\курсовой проект\courseProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,=D:\курсовой проект\FormCharacteristics.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.741,=D:\курсовой проект\RatingForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\courseProject.cbproj=D:\курсовой проект\courseProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=D:\курсовой проект\UnitQuestion.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=D:\курсовой проект\FormStart.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=D:\курсовой проект\TestsRatingForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=D:\курсовой проект\UnitUser.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=D:\курсовой проект\course_project.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,=D:\курсовой проект\FormReports.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\courseProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=D:\курсовой проект\RecordsForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,=D:\курсовой проект\UnitTest.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\courseProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\Users\egich\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,D:\курсовой проект\TestInfo.cpp=D:\курсовой проект\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=D:\курсовой проект\FormAddUsers.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,=D:\курсовой проект\FormTest.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,=D:\курсовой проект\UsersForm.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
